@@ -1,18 +1,18 @@
 .button__input--form{
-  width: 100%;
-  margin-left: 0.4rem;
-  margin-top: 2rem;
-  padding: 0.4rem;
-  transition: all .5s ease;
+  color:#fff;
+  cursor: pointer;
   background: linear-gradient(55deg, #9F2FF7, #5B29D6, #3C39ED, #2954D6, #2F95F7);
   border: none;
   border-radius: 7px;
   font-size: 0.9rem;
-  cursor: pointer;
-  color:#fff;
+  margin-left: 0.4rem;
+  margin-top: 2rem;
+  padding: 0.4rem;
+  transition: all .5s ease;
+  width: 100%;
 }
 
 .button__input--form:hover{
-  letter-spacing: 0.4px;
   background: linear-gradient(to left,  #9F2FF7, #5B29D6, #3C39ED, #2954D6, #2F95F7);
+  letter-spacing: 0.4px;
 }

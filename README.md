@@ -1,2 +1,2 @@
 # ideia-formularioprojeto
-<p> projeto para visualização de meus desempenhos nas linguagens de marcação e estilo html&css</p>
+<p> projeto pessoal de um formulário para prática de meus conhecimentos</p>

@@ -1,2 +1,2 @@
-# ideia-formulario-projeto
+# ideia-projeto-formulario
 <p> projeto pessoal de um formulário para prática de meus conhecimentos</p>
